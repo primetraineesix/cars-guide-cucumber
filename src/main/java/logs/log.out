@@ -1,0 +1,119 @@
+2021-12-19 17:12:465 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 17:12:643 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 17:12:856 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 17:12:195 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 17:12:449 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 17:12:634 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 17:12:841 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 17:12:195 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 17:12:297 INFO  FindDealersResultPage :97 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 17:12:132 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 17:12:729 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 17:12:930 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 17:12:261 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 17:12:376 INFO  FindDealersResultPage :97 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 17:12:881 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 17:12:146 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 17:12:359 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 17:12:738 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 17:12:873 INFO  FindDealersResultPage :100 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 17:12:181 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 17:12:243 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 17:12:412 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 17:12:745 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 17:12:879 INFO  FindDealersResultPage :99 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 17:12:48 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 17:12:96 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 17:12:321 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 17:12:660 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 17:12:775 INFO  FindDealersResultPage :99 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 17:12:582 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 17:12:745 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 17:12:962 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 17:12:287 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 17:12:419 INFO  FindDealersResultPage :99 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 18:12:581 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 18:12:892 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 18:12:74 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 18:12:422 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 18:12:639 INFO  FindDealersResultPage :100 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 18:12:432 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 18:12:960 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 18:12:146 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 18:12:496 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 18:12:762 INFO  FindDealersResultPage :100 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 18:12:181 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 18:12:586 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 18:12:767 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 18:12:115 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 18:12:267 INFO  FindDealersResultPage :100 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 18:12:282 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 18:12:294 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 18:12:491 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 18:12:977 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 18:12:15 INFO  FindDealersResultPage :100 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 18:12:798 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 18:12:127 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 18:12:323 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 18:12:706 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 18:12:817 INFO  FindDealersResultPage :100 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 19:12:48 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 19:12:363 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 19:12:592 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 19:12:989 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 19:12:881 INFO  FindDealersResultPage :100 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 19:12:648 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 19:12:88 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 19:12:305 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 19:12:694 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 19:12:792 INFO  FindDealersResultPage :100 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 19:12:348 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 19:12:910 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 19:12:111 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 19:12:471 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 19:12:578 INFO  FindDealersResultPage :100 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 19:12:461 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 19:12:67 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 19:12:241 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 19:12:625 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 19:12:828 INFO  FindDealersResultPage :100 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 19:12:332 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 19:12:286 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 19:12:478 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 19:12:819 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 19:12:360 INFO  FindDealersResultPage :100 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 20:12:781 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 20:12:829 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 20:12:44 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 20:12:419 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 20:12:625 INFO  FindDealersResultPage :104 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 20:12:481 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 20:12:134 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 20:12:360 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 20:12:741 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 20:12:865 INFO  FindDealersResultPage :104 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 20:12:264 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 20:12:232 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 20:12:429 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 20:12:785 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 20:12:900 INFO  FindDealersResultPage :104 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 20:12:281 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 20:12:504 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 20:12:712 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 20:12:88 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 20:12:214 INFO  FindDealersResultPage :104 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 20:12:348 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 20:12:610 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 20:12:808 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 20:12:193 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 20:12:273 INFO  FindDealersResultPage :104 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 21:12:516 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 21:12:827 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 21:12:38 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 21:12:397 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 21:12:195 INFO  FindDealersResultPage :105 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2021-12-19 21:12:349 INFO  ManageDriver :32 - launching chrome browser
+2021-12-19 21:12:454 INFO  HomePage :35 - verifying homepage url.
+2021-12-19 21:12:648 INFO  HomePage :44 - hover mouse to menu bar.
+2021-12-19 21:12:13 INFO  HomePage :56 - hover to submenu and click on element.
+2021-12-19 21:12:158 INFO  FindDealersResultPage :105 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
